@@ -1,18 +1,24 @@
- 🚀 Akshat Bhardwaj
+# 👋 Hi, I'm Akshat Bhardwaj
 
-**CS Student @ VJIT | Full Stack Developer | AI/ML Engineer**
-
-📍 Hyderabad, India | 📧 akshatbhardwaj0801@gmail.com
+I am a builder, who likes to build AI-powered tech projects.
 
 ---
 
-### 💡 About Me
+### Profile views  
+**797**
 
-- 🔵 Full Stack Developer (React, Next.js, TypeScript, Python)
-- 🟠 2x AI Research Intern @ Swecha & Agnirva
-- 🟢 1st Place Winner - Hack-O-Mania 2023
-- ⚪ Research Paper Presenter @ ICCIDSDT-2026
-- 📊 Building: BurryAI (AI Finance Copilot) & Healthcare.AI
-- ❌ Ask me about LLMs, RAG, and AI Agents
+- 🔵 Full Stack Developer
+- 🟢 AI/ML Enthusiast
+- 🟣 1x Hackathon Winner
+- 🟦 I’m currently working on BurryAI & Healthcare.AI
+- 🟧 I’m currently learning Agentic AI
+- 🔴 Ask me about LLMs, RAG, and Full Stack Development
 
-Passionate about building AI-powered solutions that solve real-world problems. Currently exploring Agentic AI and advanced RAG techniques.
+---
+
+Passionate about creating innovative AI solutions and turning ideas into reality through code. Let's connect and build something amazing together!
+
+---
+
+📩 **How to reach me**  
+[akshatbhardwaj0801@gmail.com](mailto:akshatbhardwaj0801@gmail.com)
